@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Local backups
+*.backup
+
+# Local security scan reports
+npm-audit.json
+trivy-*-report.json

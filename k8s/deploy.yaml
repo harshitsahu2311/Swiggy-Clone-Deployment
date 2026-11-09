@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: swiggy
-        image: harshitsahu2311/swiggy-clone:latest
+        image: jowinshaju/swiggy-clone:latest
         ports:
         - containerPort: 3000

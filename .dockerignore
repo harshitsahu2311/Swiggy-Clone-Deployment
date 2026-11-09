@@ -1,0 +1,17 @@
+node_modules
+build
+.git
+.github
+.gitignore
+Dockerfile
+README.md
+*.log
+.env
+.env.*
+
+# Local backups
+*.backup
+
+# Local security scan reports
+npm-audit.json
+trivy-*-report.json
